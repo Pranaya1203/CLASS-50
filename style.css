@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+.header{
+background-color:aqua;
+display:flex;
+justify-content: first baseline;
+}
+
+.sitedescription{
+background-color:beige;
+display:flex;
+justify-content:space-between ;
+}
+
+.grid{
+ background-color: darksalmon;
+ display:flex;
+ justify-content: last baseline;
+}
+
+.item{
+    background-color: darksalmon;
+    
+    
+}
+
+.footer{
+display: flex;
+justify-content: flex-end;
+}
